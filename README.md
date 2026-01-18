@@ -68,7 +68,7 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavvyawahare25&show_icons=true&theme=dark" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=pranavvyawahare25&show_icons=true&theme=dark](https://streak-stats.demolab.com/?user=pranavvyawahare25)" />
 </p>
 
 <p>
