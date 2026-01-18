@@ -84,14 +84,24 @@
 
 ## 📊 GitHub Stats
 
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavvyawahare25&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pranavvyawahare25&show_icons=true&theme=tokyonight&hide_border=true&format=png"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=pranavvyawahare25&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=pranavvyawahare25&theme=tokyonight&type=png"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvyawahare25&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvyawahare25&layout=compact&theme=tokyonight&hide_border=true&format=png"
+    alt="Top Languages"
+  />
 </p>
