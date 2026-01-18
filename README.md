@@ -95,7 +95,7 @@
   
 ![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=pranavvyawahare25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://streak-stats.demolab.com/?user=pranavvyawahare25&theme=tokyonight&hide_border=true))
 
-![GitHub Streak]([[https://streak-stats.demolab.com?user=pranavvyawahare25&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=pranavvyawahare25&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com/?user=pranavvyawahare25))
+![GitHub Streak]([[[https://streak-stats.demolab.com?user=pranavvyawahare25&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=pranavvyawahare25&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com/?user=pranavvyawahare25)](https://streak-stats.demolab.com?user=pranavvyawahare25&theme=dark&hide_border=true))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvyawahare25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
